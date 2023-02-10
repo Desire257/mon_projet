@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1> Bienvenu au cfitech </h1>
+      <h1> Bienvenu au cfitech  koekelberg </h1>
       <img src={image} alt='' />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
